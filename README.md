@@ -1,12 +1,24 @@
-# dinnmrdh
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Dinna’s Portfolio</title>
+  <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h2 {
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    ul {
+      list-style-type: square;
+    }
+  </style>
 </head>
 <body>
   <!-- Header -->
@@ -18,7 +30,7 @@
   <!-- About -->
   <section id="about" class="container py-5">
     <h2>About Me</h2>
-    <p>I am a Food Science and Technology graduate with experience in Quality Control, Food Safety, and Content Creation. Skilled in research & analysis, and social media strategy.</p>
+    <p>I am a Food Science and Technology graduate with experience in Quality Control, Food Safety, and Content Creation. Skilled in HACCP, GMP, research & analysis, and social media strategy.</p>
   </section>
 
   <!-- Experience -->
